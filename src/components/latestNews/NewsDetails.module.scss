@@ -1,0 +1,28 @@
+.newsDetails {
+    .details {
+      padding-top: 2rem;
+  
+      .img {
+        width: 100%;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        img {
+          width: 100%;
+          border-radius: 10px;
+        }
+      }
+  
+      .content {
+        width: 100%;
+        padding: 5px;
+        text-align:justify;
+        & > * {
+          margin-bottom: 1rem;
+        }
+       
+      }
+    }
+  }
+  
