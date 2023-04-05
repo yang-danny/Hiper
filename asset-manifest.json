@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hiper/static/css/main.964c4326.css",
+    "main.js": "/hiper/static/js/main.2ce1a334.js",
+    "static/media/spinner.jpg": "/hiper/static/media/spinner.afa973eee05e0ebff95a.jpg",
+    "static/media/register.png": "/hiper/static/media/register.c63eced99fcb38972a6c.png",
+    "static/media/forgot.png": "/hiper/static/media/forgot.cfba148d722f088aeddb.png",
+    "static/media/login.png": "/hiper/static/media/login.78ccab5e2cbeadd1d2f2.png",
+    "static/media/Hiper-Logo.png": "/hiper/static/media/Hiper-Logo.fb0f48a713c7335b4b58.png",
+    "static/media/loader.gif": "/hiper/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "index.html": "/hiper/index.html",
+    "main.964c4326.css.map": "/hiper/static/css/main.964c4326.css.map",
+    "main.2ce1a334.js.map": "/hiper/static/js/main.2ce1a334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964c4326.css",
+    "static/js/main.2ce1a334.js"
+  ]
+}
