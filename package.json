@@ -1,7 +1,7 @@
 {
   "name": "hiper",
   "version": "0.1.0",
-  "homepage":"http://yang-danny.github.io/",
+  "homepage":"http://yang-danny.github.io/hiper",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
